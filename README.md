@@ -1,2 +1,1 @@
-# Hayato
-myself-repository
+# About me
