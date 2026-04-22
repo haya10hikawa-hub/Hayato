@@ -19,8 +19,12 @@ I'm **Hayato**, a student working on hardware development and space-related proj
 * Preparing next revision (Rev.2)
 
 ####  Hardware
+↓Ver1.0 
+![photo](./images/DSC_0287.JPG)
 
-![PCB](./images/pcb.png)
+*Ver1.5: In the works...
+![PCB](./images/スクリーンショット 2026-04-22 19.36.36.png)
+![PCB](./images/スクリーンショット 2026-04-22 19.53.24.png)
 
 ####  System Overview
 
