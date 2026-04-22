@@ -1,45 +1,58 @@
 ## Hi there! 👋
 
-I'm **Hayato**, a student passionate about hardware development and space-related projects 🚀
+I'm **Hayato**, a student working on hardware development and space-related projects 🚀
 
-### What I'm working on
+---
 
-* Designing **schematics & PCB layouts**
-* Learning **FPGA development**
-* Building **CanSat systems** (including rovers and embedded control)
+###  Project: Rocket Onboard System (Rev.2 in progress)
 
-###  Latest Project: Rocket System Development
+####  What I've done
 
-I'm currently working on a rocket-related project, focusing on onboard electronics design.
+* Designed schematic and PCB
+* Manufactured and assembled the board
+* Verified basic functionality (power and sensor operation)
 
-#### What I did
+####  Current Work (Improvement Phase)
 
-* Designed the **schematic and PCB**
-* Implemented embedded system components
-* Worked on reliability for harsh environments
+* Reviewing PCB layout for better design
+* Improving power stability and component placement
+* Preparing next revision (Rev.2)
 
-####  Preview
+####  Hardware
 
-<!-- Put your PCB / schematic images here -->
+![PCB](./images/pcb.png)
 
-![PCB Image](./images/pcb.png)
-![Schematic](./images/schematic.png)
+####  System Overview
 
-#### Description
+* Sensor: MPU6050, BMP390
+* Power: Boost converter + LDO regulators
+* Interface: I2C communication
 
-This project aims to develop a compact and reliable onboard system for a small rocket.
-The system includes sensor integration, power management, and communication modules.
+####  Description
+
+This project aims to develop a compact onboard system for a small rocket.
+The system includes sensor integration and power management.
+
+---
+
+### ⚠ Challenges & Improvements
+
+* Noise and stability considerations in power lines
+* PCB layout optimization (component placement, routing)
+* Improving reliability through iterative design
+
+---
+
+###  What I learned
+
+* End-to-end PCB development (design → manufacturing → testing)
+* Debugging real hardware issues
+* Importance of layout in circuit performance
 
 ---
 
 ### Goals
 
-* Improve hardware design skills (high-speed PCB, signal integrity)
-* Gain deeper understanding of FPGA systems
-* Participate in space/robotics competitions
-
----
-
-###  Contact
-
-* GitHub: 
+* Complete improved PCB revision
+* Achieve more stable sensor readings
+* Expand system functionality step by step
