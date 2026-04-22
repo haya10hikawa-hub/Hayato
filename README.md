@@ -22,7 +22,8 @@ I'm **Hayato**, a student working on hardware development and space-related proj
 ↓Ver1.0 
 ![photo](./images/DSC_0287.JPG)
 
-*Ver1.5: In the works...
+Ver1.5: 
+#### In the works...
 ![schematic](./images/ex_schematic.png)
 ![PCB](./images/ex_PCB.png)
 
