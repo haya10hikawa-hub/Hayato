@@ -23,8 +23,8 @@ I'm **Hayato**, a student working on hardware development and space-related proj
 ![photo](./images/DSC_0287.JPG)
 
 *Ver1.5: In the works...
-![PCB](./images/スクリーンショット 2026-04-22 19.36.36.png)
-![PCB](./images/スクリーンショット 2026-04-22 19.53.24.png)
+![schematic](./images/ex_schematic.png)
+![PCB](./images/ex_PCB.png)
 
 ####  System Overview
 
