@@ -29,7 +29,7 @@ Ver2.0:
 
 ####  System Overview
 
-* Sensor: MPU6050, BMP390
+* Sensor: MPU6500, BMP390
 * Power: Boost converter + LDO regulators
 * Interface: I2C communication
 
