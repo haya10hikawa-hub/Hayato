@@ -17,7 +17,7 @@ LEADING EDGE四国は、四国にゆかりのある若い人材のアイデア�
 
 ## 採択通知
 
-![LEADING EDGE四国からの採択通知](../assets/achievements/内容通知.png)
+![LEADING EDGE四国からの採択通知](../assets/achievements/leading-edge.png)
 
 *LEADING EDGE四国から届いた採択通知。共同応募者名と宛先情報は非表示*
 
