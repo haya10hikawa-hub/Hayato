@@ -15,6 +15,12 @@ LEADING EDGE四国は、四国にゆかりのある若い人材のアイデア�
 
 採択は、Atraの問題設定と提案が支援対象として選ばれたことを示します。製品の完成や事業の成功を意味するものではありません。
 
+## 採択通知
+
+![LEADING EDGE四国からの採択通知](../assets/achievements/leading-edge-selection-email-redacted.png)
+
+*LEADING EDGE四国から届いた採択通知。共同応募者名と宛先情報は非表示にしています。*
+
 ## 関連資料
 
 - [LEADING EDGE四国 公式サイト](https://www.leadingedge-shikoku.com/) — プログラムの概要
