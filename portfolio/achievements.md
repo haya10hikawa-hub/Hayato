@@ -1,6 +1,6 @@
-# 採択実績 — LEADING EDGE四国
-
 [← READMEへ戻る](../README.md)
+
+# 採択実績 — LEADING EDGE四国
 
 ## LEADING EDGE四国（LE四国）
 
