@@ -16,13 +16,6 @@
 
 *製作したロケット搭載基板。*
 
-## プロジェクト
-
-- [Atra — 人の判断を残す情報整理の実験](portfolio/atra.md)
-- [CanSat・ロケット開発 — 現場で確認・切り分け・復旧できる電装](portfolio/rocket.md)
-- [採択実績 — Atraが支援対象になった経緯](portfolio/achievements.md)
-- [設計に対する考え方](portfolio/design-philosophy.md)
-
 ## 補助事例
 
 FRC Team Hanabiでは、ロボット設計に加えて資金調達・社会貢献活動に関わっています。技術だけでなく、情報の流れや役割の理解もチームの成果に関わると考えるきっかけになった経験です。詳しくは[設計に対する考え方](portfolio/design-philosophy.md)にまとめています。
